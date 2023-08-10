@@ -23,7 +23,7 @@ This is a responsive product landing page for a trombone company. It showcases p
 
 Watch a detailed video explaining how the trombones work:
 
-[![How It Works Video](https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&amp;controls=0&amp;showinfo=0)
+[![How It Works Video](https://www.youtube.com/watch?v=y8Yv4pnO7qc)
 
 ## Pricing
 
